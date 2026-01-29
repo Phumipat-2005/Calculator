@@ -19,13 +19,6 @@ public class ProjectCalculater {
         this.x = x;
     }
 
-<<<<<<< HEAD
-        System.out.printf("HELLO TIME");
-        System.out.println("HELLO JAVA");
-        System.out.printf("HELLO TIME2");
-        System.out.printf("HELLO TIME3");
-        input.close();
-=======
     public int getY() {
         return y;
     }
@@ -38,6 +31,5 @@ public class ProjectCalculater {
     }
     public void setOP(String operator) {
         this.operator = operator;
->>>>>>> Dev_Timelnwza007
     }
 }
