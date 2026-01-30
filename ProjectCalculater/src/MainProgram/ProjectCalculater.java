@@ -36,7 +36,7 @@ public class ProjectCalculater {
     public void setOP(String operator) {
         this.operator = operator;
     }
-}
+
 
 public int getResult() {
     return this.result;
@@ -64,3 +64,4 @@ public void calculate_process() {
             System.out.println("Invalid Operator");
         }
     }
+}
