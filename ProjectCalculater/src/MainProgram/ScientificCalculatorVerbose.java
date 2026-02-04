@@ -6,6 +6,7 @@ public class ScientificCalculatorVerbose {
     }
 
     public static void main(String[] args) {
+        System.out.print("Welcome to Simple Calculator!");
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter number: ");
         String input = scan.nextLine();
